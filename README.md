@@ -254,10 +254,29 @@ Architected an AI-enhanced career-guidance platform as team lead.
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-560%2B%20Solved%20%7C%201503%20Rating-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5--Star%20(Java%2C%20Python%2C%20SQL)-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-560%2B%20Solved%20%7C%201503%20Rating-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Saikumar_Dangeti26/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5--Star%20(Java%2C%20Python%2C%20SQL)-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/23a31a04m3)
 
 </div>
+
+---
+
+## 🏅 GitHub Achievements
+
+<div align="center">
+
+[![GitHub Achievements](https://img.shields.io/badge/View%20Live%20Achievements-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavan-dangeti?tab=achievements)
+
+</div>
+
+Currently working toward:
+
+| Badge | Requirement | Difficulty |
+|---|---|---|
+| 🦈 Pull Shark | 2 merged Pull Requests | Medium |
+| 🔫 Quickdraw | Close an Issue/PR within 5 min of opening | Easy |
+| 🧠 Galaxy Brain | 2 accepted answers in GitHub Discussions | Medium |
+| ⭐ Starstruck | 16 stars on an owned repository | Hard |
 
 ---
 
