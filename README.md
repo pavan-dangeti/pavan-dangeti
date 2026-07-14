@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pavan%20Subramanyam%20Sai%20Kumar%20Dangeti&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Development%20Engineer%20%7C%20Full%20Stack&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pavan%20Subramanyam%20Sai%20Kumar%20Dangeti&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full-Stack%20SDE%20%E2%80%A2%20Systems%20that%20ship&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-Native+Products+%F0%9F%A4%96;Multi-Agent+Systems+%2B+LLM+Engineering;FastAPI+%7C+React+%7C+PyTorch+%7C+AWS;Top+5+National+%40+Google+Solution+Challenge+2025" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=680&lines=Multi-Agent+LLM+Systems+%2B+Production+Backends;FastAPI+%7C+React%2FNext.js+%7C+PyTorch+%7C+AWS%2FGCP;Top+5+National+%40+Google+Solution+Challenge+2025;560%2B+LeetCode+%7C+5-Star+HackerRank" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,8 +22,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pavan-dangeti&color=8b5cf6&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/pavan-dangeti?color=6D28D9&style=flat-square&label=Followers)
-![Stars](https://img.shields.io/github/stars/pavan-dangeti?color=A78BFA&style=flat-square&label=Stars)
 
 </div>
 
@@ -31,15 +29,15 @@
 
 ## 🧠 About Me
 
-I'm an engineer who moves fluidly between **AI/ML systems** and **production-grade software engineering** — designing multi-agent LLM pipelines one week and shipping JWT-authenticated, load-tested REST APIs the next. My work centers on turning research-grade AI capability into **reliable, recruiter-and-enterprise-ready products**: explainable ML dashboards, schema-aware NL→SQL engines, and orchestrated agent systems that solve real coordination problems, not demo-ware.
+I'm an engineer who builds the full path from **model to production** — designing multi-agent LLM pipelines and shipping the JWT-authenticated, load-tested REST APIs that actually serve them. I don't treat "AI" and "software engineering" as separate tracks: every AI system I build gets the same rigor as any backend service — schema validation, access-control testing, security constraints — and every backend I build is designed to eventually carry an intelligent layer.
 
-- 🔭 Currently building **agentic and full-stack systems** at the intersection of GenAI and traditional backend engineering
-- ⚙️ Product engineering mindset — every project ships with validation, security constraints (read-only SQL layers, JWT/OAuth), and measurable impact
-- 🧩 Comfortable owning the full stack: model → API → dashboard → deployment
-- 🏆 Top 5 National Finalist, Google Solution Challenge 2025 (among thousands of teams)
-- 🌱 Currently deepening expertise in multi-agent orchestration (Google ADK) and distributed systems design
+- 🔭 Building **agentic and full-stack systems**: multi-agent orchestration (Google ADK, Gemini 2.0 Flash) on top of scalable FastAPI/PostgreSQL backends
+- ⚙️ Core CS foundation: Data Structures & Algorithms, System Design, Distributed Systems, Multi-Tier Architecture — not just API glue code
+- 🧩 Comfortable owning the full stack: model → API → dashboard → deployment, with security and validation built in at every layer (read-only SQL guards, JWT/OAuth, multi-tenant isolation)
+- 🏆 Top 5 National Finalist, Google Solution Challenge 2025 — among thousands of competing teams
+- 🌱 Currently deepening expertise in distributed systems design and retrieval-augmented multi-agent architectures
 
-**Open To:** AI Engineering roles · Software Development Engineer (SDE) roles · Full Stack / Backend Engineering · Applied ML internships & collaborations
+**Open To:** AI/ML Engineer · Software Development Engineer (SDE) · Full Stack / Backend Engineer · Applied ML collaborations
 
 ---
 
@@ -67,12 +65,18 @@ I'm an engineer who moves fluidly between **AI/ML systems** and **production-gra
 ![Firebase](https://img.shields.io/badge/Firebase-8B5CF6?style=flat-square&logo=firebase&logoColor=white)
 
 **Cloud, DevOps & Tooling**
-![AWS](https://img.shields.io/badge/AWS-6D28D9?style=flat-square&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-7C3AED?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20S3%20%7C%20Lambda%20%7C%20SageMaker%20%7C%20Bedrock-6D28D9?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Compute%20%7C%20Terraform-7C3AED?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-8B5CF6?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-6D28D9?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-7C3AED?style=flat-square&logo=linux&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-8B5CF6?style=flat-square&logo=postman&logoColor=white)
+
+**Core CS & Systems**
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-6D28D9?style=flat-square)
+![System Design](https://img.shields.io/badge/System%20Design-7C3AED?style=flat-square)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-8B5CF6?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-6D28D9?style=flat-square)
 
 <div align="center">
 
