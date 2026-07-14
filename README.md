@@ -254,8 +254,8 @@ Architected an AI-enhanced career-guidance platform as team lead.
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-560%2B%20Solved%20%7C%201503%20Rating-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Saikumar_Dangeti26/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5--Star%20(Java%2C%20Python%2C%20SQL)-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/23a31a04m3)
+[![LeetCode](https://img.shields.io/badge/LeetCode-560%2B%20Solved%20%7C%201503%20Rating-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5--Star%20(Java%2C%20Python%2C%20SQL)-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com)
 
 </div>
 
@@ -269,36 +269,6 @@ Architected an AI-enhanced career-guidance platform as team lead.
 <img src="https://streak-stats.demolab.com?user=pavan-dangeti&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" width="48%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-dangeti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="48%"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pavan-dangeti&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavan-dangeti&theme=react-dark&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/pavan-dangeti/pavan-dangeti/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
